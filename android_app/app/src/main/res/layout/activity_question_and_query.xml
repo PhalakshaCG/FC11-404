@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".QuestionAndQuery">
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar1"
+
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="Questions and Responses"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <FrameLayout
+        android:id="@+id/fl1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/answer1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="350dp"
+            android:text="Answer"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            app:layout_constraintTop_toBottomOf="@id/video_view" />
+
+        <ImageView
+            android:id="@+id/white"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@color/white" />
+
+        <VideoView
+            android:id="@+id/video_view1"
+            android:layout_width="match_parent"
+            android:layout_height="620dp"
+            android:layout_gravity="center" />
+
+
+        <TextView
+            android:id="@+id/question1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="200dp"
+            android:text="Questions"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            app:layout_constraintTop_toBottomOf="@id/video_view" />
+
+        <WebView
+            android:layout_width="match_parent"
+            android:layout_height="650dp"
+            android:paddingTop="150dp"
+            android:layout_gravity="bottom"
+            android:visibility="gone"
+            android:id="@+id/webpage"
+            app:layout_constraintBottom_toBottomOf="parent" />
+
+
+    </FrameLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
