@@ -1,0 +1,25 @@
+{
+   "action": {
+      "default_icon": "ext-logo.png"
+   },
+   "content_scripts": [ {
+      "css": [ ],
+      "js": [ "factcheck.js" ],
+      "matches": [ "https://twitter.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Check credibility of all tweets making claims.",
+   "icons": {
+      "128": "ext-logo.png",
+      "16": "ext-logo.png",
+      "96": "ext-logo.png",
+      "48": "ext-logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiLbiAjT2dVq/xJFvM0/tM+8I7fNIfAPtFKoiN5LebP60hsTwbR+a2EIC5oTmR8NdwACEjQvxqeOqUDSHp+cCCtkx9RfIo9EvPSdwoi3reWm5eV5eOc0ArkZJKL5mX1V8/znU5LUaBCbfNwF5yzxaQgavXahJ2CF6RJC6r5Pf5KeSgHK61bXBWIS95ZVu/UvFUNy6i9bkUnVv1HMiOFqe7mXpn66gyh7HuAYsO5koeZBqFqwKxWeUv+OBHgiKeWQB28VvOqpVuKv9eADim64V3MSVmf56EHv9o3HBDYRwHBuAA5u7WMHn5jsjjals/lduUMYUW2vKW0lRLmGtc+GSjwIDAQAB",
+   "manifest_version": 3,
+   "name": "AntiFake",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.6",
+   "permissions": [
+    ]
+}
