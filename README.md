@@ -15,15 +15,14 @@ Compares 2 sentences by extracting their compute sentence / text embedding and B
 4. Discord bot
 
 ## High level design
-<img width="377" alt="High Level Design" src="https://user-images.githubusercontent.com/59359627/186580105-6c6574c6-b3cc-4b91-8d4f-0d794e2ac6bc.png">
+<img width="500" alt="High Level Design" src="https://user-images.githubusercontent.com/59359627/186580105-6c6574c6-b3cc-4b91-8d4f-0d794e2ac6bc.png">
 
 ## Architecture model
-<img width="404" alt="Architecture model" src="https://user-images.githubusercontent.com/59359627/186580221-ee66f812-cb96-4435-b3d2-68268a80ee4b.png">
+<img width="700" alt="Architecture model" src="https://user-images.githubusercontent.com/59359627/186580221-ee66f812-cb96-4435-b3d2-68268a80ee4b.png">
 
 ## Android app
-![new](https://user-images.githubusercontent.com/59359627/186581387-45410dce-c979-485e-9b9c-4b7a62faed21.jpg)
 
-![aaaaa](https://user-images.githubusercontent.com/59359627/186580306-708564fa-930b-411e-9f08-0ed3fafe3645.jpg)
+<img width="300" src ="https://user-images.githubusercontent.com/59359627/186581492-7db01d90-b650-4d7a-a70f-f41de8fcd498.jpg">
 ![ff](https://user-images.githubusercontent.com/59359627/186580308-23f1efe1-00f3-4b81-a1f5-cbe377debe68.jpg)
 ![g](https://user-images.githubusercontent.com/59359627/186580312-a8845011-f36d-46be-819b-226f488a6b97.jpg)
 ![111](https://user-images.githubusercontent.com/59359627/186580301-1afd3ddf-29e2-4afd-b11e-09b7835fa45b.jpg)
