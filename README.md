@@ -8,7 +8,7 @@ To process claims from frontend and return response
 ### Similarity Check
 Compares 2 sentences by extracting their compute sentence / text embedding and BERT to compare the 2 sentences.
 
-### Frontend
+## Frontend
 1. Twitter browser extension
 2. WhatsApp bot
 3. Android app
