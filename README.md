@@ -21,6 +21,7 @@ Compares 2 sentences by extracting their compute sentence / text embedding and B
 <img width="404" alt="Architecture model" src="https://user-images.githubusercontent.com/59359627/186580221-ee66f812-cb96-4435-b3d2-68268a80ee4b.png">
 
 ## Android app
+![new](https://user-images.githubusercontent.com/59359627/186581387-45410dce-c979-485e-9b9c-4b7a62faed21.jpg)
 
 ![aaaaa](https://user-images.githubusercontent.com/59359627/186580306-708564fa-930b-411e-9f08-0ed3fafe3645.jpg)
 ![ff](https://user-images.githubusercontent.com/59359627/186580308-23f1efe1-00f3-4b81-a1f5-cbe377debe68.jpg)
