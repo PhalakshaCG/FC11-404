@@ -1,6 +1,6 @@
 # FC11-!404
 
-*“Develop a clear and to evaluate a statement’s credibility and combat the spread of misinformation”*
+*“Develop a clear and credible rating system to evaluate a statement’s authenticity and combat the spread of misinformation”*
 
 ## Backend
 ### Flask API
@@ -23,18 +23,20 @@ Compares 2 sentences by extracting their compute sentence / text embedding and B
 ## Android app
 
 <img width="300" src ="https://user-images.githubusercontent.com/59359627/186581492-7db01d90-b650-4d7a-a70f-f41de8fcd498.jpg">
-![ff](https://user-images.githubusercontent.com/59359627/186580308-23f1efe1-00f3-4b81-a1f5-cbe377debe68.jpg)
-![g](https://user-images.githubusercontent.com/59359627/186580312-a8845011-f36d-46be-819b-226f488a6b97.jpg)
-![111](https://user-images.githubusercontent.com/59359627/186580301-1afd3ddf-29e2-4afd-b11e-09b7835fa45b.jpg)
-![11](https://user-images.githubusercontent.com/59359627/186580314-ea31ddaf-592c-4f49-9fe3-d72f258e6612.jpg)
-![5](https://user-images.githubusercontent.com/59359627/186580313-1b3b4e2e-1392-49a4-a57d-738417297c2d.jpg)
+<img width="300" src ="https://user-images.githubusercontent.com/59359627/186580308-23f1efe1-00f3-4b81-a1f5-cbe377debe68.jpg">
+<img width="300" src ="https://user-images.githubusercontent.com/59359627/186580312-a8845011-f36d-46be-819b-226f488a6b97.jpg">
+<img width="300" src ="https://user-images.githubusercontent.com/59359627/186580301-1afd3ddf-29e2-4afd-b11e-09b7835fa45b.jpg">
+<img width="300" src ="https://user-images.githubusercontent.com/59359627/186580314-ea31ddaf-592c-4f49-9fe3-d72f258e6612.jpg">
+<img width="300" src ="https://user-images.githubusercontent.com/59359627/186580313-1b3b4e2e-1392-49a4-a57d-738417297c2d.jpg">
+
 
 ## Discord bot
-![4](https://user-images.githubusercontent.com/59359627/186580709-e61d8fd2-de0e-422c-8fd2-7a048c5dbfa7.png)
-![2](https://user-images.githubusercontent.com/59359627/186580717-31e2031b-e29f-4209-a4a2-ee29e59c862f.png)
-![3](https://user-images.githubusercontent.com/59359627/186580718-82a36930-9b1b-4351-bd70-4ef06340ee03.png)
+<img width = "300" src="https://user-images.githubusercontent.com/59359627/186580709-e61d8fd2-de0e-422c-8fd2-7a048c5dbfa7.png">
+<img width = "300" src="https://user-images.githubusercontent.com/59359627/186580717-31e2031b-e29f-4209-a4a2-ee29e59c862f.png">
+<img width = "300" src="https://user-images.githubusercontent.com/59359627/186580718-82a36930-9b1b-4351-bd70-4ef06340ee03.png">
 
 ## Twitter extension
 
-![11](https://user-images.githubusercontent.com/59359627/186580799-f87d685c-0da4-48e6-9340-21c0a5638a91.png)
-![1](https://user-images.githubusercontent.com/59359627/186580806-5c138360-93c5-4234-acdd-63c1f8c898f2.png)
+<img width = "300" src="https://user-images.githubusercontent.com/59359627/186580799-f87d685c-0da4-48e6-9340-21c0a5638a91.png">
+<img width = "300" src="https://user-images.githubusercontent.com/59359627/186580806-5c138360-93c5-4234-acdd-63c1f8c898f2.png">
+
